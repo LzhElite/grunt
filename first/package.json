@@ -1,0 +1,26 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "this is my first grunt",
+  "main": "index",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LzhElite/grunt.git"
+  },
+  "keywords": [
+    "grunt",
+    "practice"
+  ],
+  "author": "LzhElite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LzhElite/grunt/issues"
+  },
+  "homepage": "https://github.com/LzhElite/grunt#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
